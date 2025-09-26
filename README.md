@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm, MD SAPON ALI
 #### I am Full Stack Developer
-![I am Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Hello! I'm a passonate developer based in Bangladesh. I love to learn new technologies and client satisfaction is my first priority.
 
