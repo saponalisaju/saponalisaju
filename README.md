@@ -1,3 +1,4 @@
+
 ### Hi there 👋, I'm, MD SAPON ALI
 #### I am Full Stack Developer
 ![I am Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -32,3 +33,14 @@ Skills:  REACT/DJANGO/JS/PYTHON/KOTLIN/HTML/CSS
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saponalisaju&show_icons=true&locale=en" alt="saponalisaju" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saponalisaju&" alt="saponalisaju" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saponalisaju)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saponalisaju&show_icons=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/saponalisaju/contributions?format=svg&private=false)  
+
+![GitHub metrics](https://metrics.lecoq.io/saponalisaju)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=saponalisaju)  
+
