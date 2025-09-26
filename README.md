@@ -1,4 +1,4 @@
-### Hi there 👋, I'm, Md. Sapon Ali
+### Hi there 👋, I'm, MD SAPON ALI
 #### I am Full Stack Developer
 ![I am Full Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -8,15 +8,6 @@ Skills:  REACT/DJANGO/JS/PYTHON/KOTLIN/HTML/CSS
 
 - 🔭 I’m currently working on this page. 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saponalisaju&show_icons=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/saponalisaju/contributions?format=svg&private=false)  
-
-
-
-<h1 align="center">Hi 👋, I'm MD SAPON ALI</h1>
-<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saponalisaju&label=Profile%20views&color=0e75b6&style=flat" alt="saponalisaju" /> </p>
 
