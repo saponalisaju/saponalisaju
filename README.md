@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ali Project](https://ecomclothes.netlify.app/ & https://traveltestdemoapp.netlify.app/)
 
-- 🌱 I’m currently learning **Nextjs, Django, Cotlin**
+- 🌱 I’m currently learning **Nextjs, Django, Kotlin**
 
 - 💬 Ask me about **react, angular and django**
 
