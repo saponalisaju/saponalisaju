@@ -5,7 +5,7 @@
 
 Hello! I'm a passonate developer based in Bangladesh. I love to learn new technologies and client satisfaction is my first priority.
 
-Skills:  REACT/DJANGO/JS/PYTHON/KOTLIN/HTML/CSS
+Skills:  REACT / DJANGO / JS / PYTHON / KOTLIN / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
