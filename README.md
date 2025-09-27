@@ -16,7 +16,7 @@ Skills:  REACT / DJANGO / JS / PYTHON / KOTLIN / HTML / CSS
 
 - 🌱 I’m currently learning **Nextjs, Django, Kotlin**
 
-- 💬 Ask me about **react, angular and django**
+- 💬 Ask me about **react **
 
 - 📫 How to reach me **saponalibpl12486@gmail.com**
 
