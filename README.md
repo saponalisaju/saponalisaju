@@ -32,7 +32,7 @@ Skills:  REACT / DJANGO / JS / PYTHON / KOTLIN / HTML / CSS
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saponalisaju&show_icons=true&locale=en" alt="saponalisaju" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saponalisaju&" alt="saponalisaju" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saponalisaju&" alt="saponalisaju" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saponalisaju)](https://github.com/anuraghazra/github-readme-stats)
 
