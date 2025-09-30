@@ -42,5 +42,5 @@ Skills:  REACT / DJANGO / JAVASCRIPT / JAVA / TYPESCRIPT / PYTHON / KOTLIN / HTM
 
 ![GitHub metrics](https://metrics.lecoq.io/saponalisaju)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=saponalisaju)  
+
 
