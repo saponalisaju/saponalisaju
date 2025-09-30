@@ -40,7 +40,6 @@ Skills:  REACT / DJANGO / JAVASCRIPT / JAVA / TYPESCRIPT / PYTHON / KOTLIN / HTM
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/saponalisaju/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/saponalisaju)  
 
 
 
