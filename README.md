@@ -21,7 +21,7 @@ Skills:  REACT / DJANGO / JAVASCRIPT / JAVA / TYPESCRIPT / PYTHON / KOTLIN / HTM
 - 📫 How to reach me **mdsaponali124@gmail.com**
 
  🌐 Live Portfolio &nbsp;
- 👉 [Visit My Portfolio](https://saponaliportfolioapp.netlify.app/)
+ 👉 [Visit My Portfolio Website](https://saponaliportfolioapp.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
