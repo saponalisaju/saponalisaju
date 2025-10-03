@@ -19,7 +19,9 @@ Skills:  REACT / DJANGO / JAVASCRIPT / JAVA / TYPESCRIPT / PYTHON / KOTLIN / HTM
 - 💬 Ask me about **react **
 
 - 📫 How to reach me **saponalibpl12486@gmail.com**
-  
+
+- ## 🌐 Live Portfolio  
+👉 <a href="[https://saponaliportfolio.netlify.com](https://saponaliportfolioapp.netlify.app/)" target="blank">Visit My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
