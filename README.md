@@ -12,7 +12,7 @@ Skills:  REACT / DJANGO / JAVASCRIPT / JAVA / TYPESCRIPT / PYTHON / KOTLIN / HTM
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saponalisaju&label=Profile%20views&color=0e75b6&style=flat" alt="saponalisaju" /> </p>
 
-- 🔭 I’m currently working on [Ali Project]([https://visaglobal24.com &](https://visaglobal24.com/), [https://allcartify.com](https://allcartify.com), [https://eclothesadmin](https://ecomclothesadmin.netlify.app/))
+- 🔭 I’m currently working on [My Project]([https://visaglobal24.com &](https://visaglobal24.com/), [https://allcartify.com](https://allcartify.com), [https://eclothesadmin](https://ecomclothesadmin.netlify.app/))
 
 - 🌱 I’m currently learning **Nextjs, Django, Kotlin**
 
