@@ -1,6 +1,6 @@
 
 ### Hi there 👋, I'm, MD SAPON ALI
-#### I am Full Stack Developer
+#### I am Full Stack Web & Mobile Developer
 
 
 Hello! I'm a passonate developer based in Bangladesh. I love to learn new technologies and client satisfaction is my first priority.
