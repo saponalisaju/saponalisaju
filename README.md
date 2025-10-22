@@ -5,7 +5,7 @@
 
 Hello! I'm a passonate developer based in Bangladesh. I love to learn new technologies and client satisfaction is my first priority.
 
-Skills:  REACT / DJANGO / JAVASCRIPT / TYPESCRIPT / PYTHON / JAVA / REACT NATIVE / KOTLIN / HTML / CSS
+Skills:  REACT /NEXT JS / DJANGO / JAVASCRIPT / TYPESCRIPT / PYTHON / JAVA / REACT NATIVE / KOTLIN / HTML / CSS / MONGODB / POSTGRESQL / MYSQL
 
 - 🔭 I’m currently working on this page. 
 
