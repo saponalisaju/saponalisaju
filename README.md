@@ -1,11 +1,13 @@
 
 ### Hi there 👋, I'm, MD SAPON ALI
-#### I am Full Stack Web & Mobile Developer
+#### I am Full Stack & Mobile Developer
 
 
-Hello! I'm a passonate developer based in Bangladesh. I love to learn new technologies and client satisfaction is my first priority.
+Full-Stack & Mobile App Developer with hands-on experience in building scalable web and mobile applications using MERN stack, Django, PHP (Laravel), Python, and Android (Java & Kotlin). I specialize in developing REST APIs, real-time systems, and performance-optimized applications with clean architecture and production-ready code.
+Experienced in AI integration, backend automation, and intelligent application features using modern AI APIs and tools. Strong background in CI/CD pipelines, Docker, cloud deployment (AWS), and media processing systems.
 
-Skills:  REACT /NEXT JS / DJANGO / JAVASCRIPT / TYPESCRIPT / PYTHON / JAVA / REACT NATIVE / KOTLIN / HTML / CSS / MONGODB / POSTGRESQL / MYSQL
+
+Skills:  HTML & CSS / REACT / NEXT JS / DJANGO / LARAVEL / JAVASCRIPT / PHP / TYPESCRIPT / PYTHON / JAVA / REACT NATIVE / KOTLIN / MONGODB / POSTGRESQL / MYSQL
 
 - 🔭 I’m currently working on this page. 
 
