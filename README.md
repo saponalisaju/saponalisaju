@@ -14,7 +14,7 @@ Skills:  HTML & CSS / REACT / NEXT JS / DJANGO / LARAVEL / JAVASCRIPT / PHP / TY
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saponalisaju&label=Profile%20views&color=0e75b6&style=flat" alt="saponalisaju" /> </p>
 
-- 🔭 I’m currently working on [My Project]([Tour and Travel](https://traveltestdemoapp.netlify.app/), [E-commerce Website](https://allcartify.com), [E-commerce](https://ecomclothesadmin.netlify.app/))
+- 🔭 I’m currently working on [My Project]([Tour and Travel](https://traveltourapp.netlify.app/), [E-commerce Website](https://petukhotel.com), [E-commerce](https://portfolio-chi-lilac-66.vercel.app/)
 
 - 🌱 I’m currently learning **Nextjs, Django, Kotlin**
 
